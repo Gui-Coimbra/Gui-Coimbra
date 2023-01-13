@@ -3,7 +3,7 @@
 ### Estou cursando o 3° semestre de Ciência da Computação na SPTech 💙
 
 <a href="https://github.com/Gui-Coimbra">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui-Coimbra&theme=dracula&hide_langs_below=1&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui-Coimbra&theme=transparent&hide_langs_below=1&count_private=true" />
 </a>
 
 <div> 
